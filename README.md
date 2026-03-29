@@ -25,6 +25,4 @@
 | **ML & Other** | TensorFlow, Keras, OpenCV, Numerical Methods |
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alkr&show_icons=true&theme=radical" alt="Elena's GitHub Stats" />
-</p>
+
