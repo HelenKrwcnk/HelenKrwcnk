@@ -1,7 +1,7 @@
 # Hi, I'm Elena Kravchenko 👋
 **Student of BSU FAMCS | Java Backend Engineer | Applied Math Enthusiast**
 
-Я бэкенд-разработчик на Java. В разработке фокусируюсь на проектировании систем с учетом производительности , алгоритмической оптимизации и Concurrency. Интересуюсь Machine Learning Engineering и компьютерным зрением.
+Я бэкенд-разработчик на Java. В разработке фокусируюсь на проектировании систем с учетом производительности , алгоритмической оптимизации и Concurrency. Интересуюсь ML Engineering .
 
 📫 **How to reach me:** [helena.k.dev@gmail.com](mailto:helena.k.dev@gmail.com) | [Telegram](https://t.me/akrawchnk)
 <br>
