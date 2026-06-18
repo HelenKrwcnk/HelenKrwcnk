@@ -9,9 +9,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| ** Smart Pantry Optimizer** | MVP full-stack приложения (Hackathon T-Bank origin). Внедрен алгоритм "умного матчинга" рецептов на основе разности множеств (остатки в холодильнике). | Java 21, Spring Boot 3, React/TS, PostgreSQL, Docker |
-| ** High-Load Metrics Engine** | Асинхронная система сбора time-series метрик. Оптимизирована для высоких нагрузок с использованием Java Concurrency API и TimescaleDB. | Java, Netty, TimescaleDB, JUnit 5, Testcontainers |
-| ** Multimodal Route Planner** | CRUD-система для логистики. Реализован алгоритм Дейкстры для оптимизации маршрутов с учетом стоимости, времени, таможни и CO₂. | Java, Spring, Hibernate, MySQL, Leaflet.js |
+|  Smart Pantry Optimizer | MVP full-stack приложения (Hackathon T-Bank origin). Внедрен алгоритм "умного матчинга" рецептов на основе разности множеств (остатки в холодильнике). | Java 21, Spring Boot 3, React/TS, PostgreSQL, Docker |
+|  High-Load Metrics Engine | Асинхронная система сбора time-series метрик. Оптимизирована для высоких нагрузок с использованием Java Concurrency API и TimescaleDB. | Java, Netty, TimescaleDB, JUnit 5, Testcontainers |
+| Multimodal Route Planner | CRUD-система для логистики. Реализован алгоритм Дейкстры для оптимизации маршрутов с учетом стоимости, времени, таможни и CO₂. | Java, Spring, Hibernate, MySQL, Leaflet.js |
 
 ##  My Tech Stack
 
